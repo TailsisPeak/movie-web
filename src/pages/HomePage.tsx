@@ -34,7 +34,7 @@ function useSearch(search: string) {
   };
 }
 
-// What the sigma?
+
 
 export function HomePage() {
   const { t } = useTranslation();
@@ -62,7 +62,7 @@ export function HomePage() {
               scrollbar-gutter: stable;
             }
           `}</style>
-          <title>{t("global.name")}</title>
+          <title>{t("Movie Web")}</title>
         </Helmet>
         <HeroPart searchParams={searchParams} setIsSticky={setShowBg} />
       </div>
