@@ -10,7 +10,7 @@ export function PageTitle(props: PageTitleProps) {
   const { t } = useTranslation();
 
   const title = t(props.k);
-  const subPageTitle = t("global.pages.pagetitle", { title });
+  const subPageTitle = t("Movie Web", { title });
 
   return (
     <Helmet>
