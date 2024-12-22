@@ -1,9 +1,9 @@
 {
   "packageManager": "pnpm@9.14.4",
-  "name": "sudo-flix",
-  "version": "4.7.0",
+  "name": "Movie Web",
+  "version": "OGmovie-web: 4.7.0 Fork is 1.0.0",
   "private": true,
-  "homepage": "https://github.com/sussy-code/smov",
+  "homepage": "https://github.com/TailsIsPeak/movie-web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
