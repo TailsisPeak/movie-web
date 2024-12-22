@@ -1,7 +1,7 @@
 # Movie Web
 [![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.undi.rest)  
 
-**As mamy know, movie web is no longer on github. i am using the sudo-flix source to fix that.
+# As many know, movie-web is no longer on github. i am using the sudo-flix source to fix that.
 
 **I love piracy, you didnt hear it from me!**
 
