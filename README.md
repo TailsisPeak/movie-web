@@ -1,9 +1,9 @@
 # Sudo-Flix
 [![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.undi.rest)  
 
-**I *do not* endorse piracy of any kind I simply enjoy programming and large user counts.**
+**I love piracy, you didnt hear it from me!**
 
-## Links And Resources
+## Links And Resources, these are docs from sudo-flix, i couldnt bother to make my own.
 | Service        | Link                                                             | Source Code                                              |
 |----------------|------------------------------------------------------------------|----------------------------------------------------------|
 | Sudo-Flix Docs | [sudo-docs](https://docs.undi.rest)                          | [source code](https://github.com/sussy-code/docs)        |
