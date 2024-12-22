@@ -1,7 +1,8 @@
 # Movie Web
 [![Sudo-Flix Image](.github/Sudo-Flix.png)](https://docs.undi.rest)  
 
-# As many know, movie-web is no longer on github. i am using the sudo-flix source to fix that.
+# As many know, movie-web is no longer on github (or a website for that matter). i am using the sudo-flix source to fix that.
+# As this is not done, you may use this [Movie web alternitive](https://movie-web-me.vercel.app) if things dont work.
 
 **I love piracy, you didnt hear it from me!**
 
@@ -15,7 +16,7 @@
 | Frontend       | [sudo-flix](https://docs.undi.rest/instances)                | [source code](https://github.com/sussy-code/smov)        |
 | Weblate        | [sudo-weblate](https://docs.undi.rest/links/weblate)         | [source code](https://github.com/sussy-code/docs)        |
 
-***I provide these if you are not able to host yourself, though I do encourage hosting the frontend.***
+***I provide these (Not the docs, sudo-flix provides them) if you are not able to host yourself, though I do encourage hosting the frontend.***
 
 
 ## Referrers
@@ -25,8 +26,8 @@ None. This is a new fork so
 ## Running Locally
 Type the following commands into your terminal / command line to run Movie-web locally
 ```bash
-git clone https://github.com/sussy-code/smov.git
-cd smov
+git clone https://github.com/TailsisPeak/movie-web.git
+cd mvoie-web
 git pull
 pnpm install
 pnpm run dev
@@ -34,16 +35,16 @@ pnpm run dev
 Then you can visit the local instance [here](http://localhost:5173) or, at local host on port 5173.
 
 
-## Updating a sudo-flix Instance
-To update a sudo-flix instance you can type the below commands into a terminal at the root of your project.
+## Updating a Movie-web Instance
+To update a Movie-web instance you can type the below commands into a terminal at the root of your project.
 ```bash
-git remote add upstream https://github.com/sussy-code/smov.git
+git remote add upstream [https://github.com/TailsisPeak/movie-web.git]
 git fetch upstream # Grab the contents of the new remote source
 git checkout <YOUR_MAIN_BRANCH>  # Most likely this would be `origin/main`
 git merge upstream/main
 # * Fix any conflicts present during merge *
 git add .  # Add all changes made during merge and conflict fixing
-git commit -m "Update sudo-flix instance (merge upstream/main)"
+git commit -m "Update Movie-web instance (merge upstream/main)"
 git push  # Push to YOUR repository
 ```
 
