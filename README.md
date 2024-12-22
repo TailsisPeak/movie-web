@@ -19,16 +19,11 @@
 
 
 ## Referrers
-- [FMHY (Voted as #1 multi-server streaming site of 2024)](https://fmhy.net)
-- [Piracy Subreddit Megathread](https://www.reddit.com/r/Piracy/s/iymSloEpXn)
-- [Toon's Instances](https://erynith.github.io/movie-web-instances)
-- [Entertainment Empire](https://discord.gg/8NSDNEMfja)
-- Search Engines: DuckDuckGo, Bing, Google
-- Rentry.co
+None. This is a new fork so 
 
 
 ## Running Locally
-Type the following commands into your terminal / command line to run Sudo-Flix locally
+Type the following commands into your terminal / command line to run Movie-web locally
 ```bash
 git clone https://github.com/sussy-code/smov.git
 cd smov
@@ -54,4 +49,4 @@ git push  # Push to YOUR repository
 
 
 ## Contact Me
-**Email:** *[dev@sudo-flix.lol](mailto:dev@sudo-flix.lol)* 
+**Email:** *[keegankellyt@gmail.com](mailto:keegankellyt@gmail.com)* 
