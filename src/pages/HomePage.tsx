@@ -62,7 +62,7 @@ export function HomePage() {
               scrollbar-gutter: stable;
             }
           `}</style>
-          <title>{t("Movie Web")}</title>
+          <title>{t("global.name")}</title>
         </Helmet>
         <HeroPart searchParams={searchParams} setIsSticky={setShowBg} />
       </div>
