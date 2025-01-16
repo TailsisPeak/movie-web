@@ -9,5 +9,6 @@ export const allThemes = [
   blue,
   gray,
   red,
-  blck
+  blck,
+  ash
 ]
