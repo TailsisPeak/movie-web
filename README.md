@@ -27,7 +27,7 @@ None. This is a new fork so
 Type the following commands into your terminal / command line to run Movie-web locally
 ```bash
 git clone https://github.com/TailsisPeak/movie-web.git
-cd mvoie-web
+cd movie-web
 git pull
 pnpm install
 pnpm run dev
