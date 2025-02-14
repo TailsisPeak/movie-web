@@ -4,7 +4,7 @@
 # As many know, movie-web is no longer on github (or a website for that matter). i am using the sudo-flix source to fix that.
 # As this is not done, you may use this [Movie web alternitive](https://movie-web-me.vercel.app) if things dont work.
 
-**I love piracy, you didnt hear it from me!**
+**I DO NOT ENDORSE PIRACY**
 
 ## Links And Resources, these are docs from sudo-flix, i couldnt bother to make my own.
 | Service        | Link                                                             | Source Code                                              |
